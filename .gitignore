@@ -1,5 +1,4 @@
-taslak/
-# Bu dosya, projenin kök dizininde bulunmalıdır.
+taslak/*
 
 # Python
 __pycache__/
