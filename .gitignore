@@ -1,1 +1,85 @@
-taslak
+taslak/
+# Bu dosya, projenin kök dizininde bulunmalıdır.
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+*.env
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+.sublime-workspace
+.sublime-project
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Caches and temp files
+*.cache
+*.diff
+*.pid
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE files
+*.idea
+*.iml
+
+# User-specific files
+*.suo
+*.user
+*.sln
+*.swp
+
+# Language-specific files
+*.pot
+*.mo
+
+# Environment configuration
+.env
